@@ -1,2 +1,2 @@
-host = '192.168.42.246'
+host = 'IP_ADDRESS' #for local host store empty string in host 
 port = 8000
